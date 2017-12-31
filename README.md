@@ -1,0 +1,2 @@
+# lineapitest-nmb
+LINEAPIのテスト
